@@ -56,7 +56,7 @@ emo
 ---
 
 ### 📌 [Sing-Box-Ubuntu-Actions-Workflow](https://github.com/UiLgNoD-lIaMtOh/Sing-Box-Ubuntu-Actions-Workflow)
-这是借用 actions 产生的虚拟机网络环境并使用 sing-box + reality(vless) + vmess + trojan 共享网络环境并通过 ngrok + cloudflared 透传网络数据从而访问国际互联网的临时应急方案。
+这是借用 actions 产生的虚拟机网络环境并使用 sing-box + cloudflare tunnel (临时 argo) + vmess 共享网络环境并通过 cloudflared tunnel 加速网络数据从而让我访问国际互联网的临时应急方案。
 
 [![](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/Sing-Box-Ubuntu-Actions-Workflow?style=social)](https://github.com/UiLgNoD-lIaMtOh/Sing-Box-Ubuntu-Actions-Workflow/stargazers)
 [![](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/Sing-Box-Ubuntu-Actions-Workflow?style=social)](https://github.com/UiLgNoD-lIaMtOh/Sing-Box-Ubuntu-Actions-Workflow/network/members)
