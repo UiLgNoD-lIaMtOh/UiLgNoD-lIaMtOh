@@ -42,6 +42,19 @@ emo
 
 ---
 
+### 📌 [s-c-f-serv00](https://github.com/UiLgNoD-lIaMtOh/s-c-f-serv00)
+修改个人 GitHub 欢迎界面。
+
+[![](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/s-c-f-serv00?style=social)](https://github.com/UiLgNoD-lIaMtOh/s-c-f-serv00/stargazers)
+[![](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/s-c-f-serv00?style=social)](https://github.com/UiLgNoD-lIaMtOh/s-c-f-serv00/network/members)
+![GitHub license](https://img.shields.io/github/license/UiLgNoD-lIaMtOh/s-c-f-serv00)
+![GitHub last commit](https://img.shields.io/github/last-commit/UiLgNoD-lIaMtOh/s-c-f-serv00)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/UiLgNoD-lIaMtOh/s-c-f-serv00)
+![Watchers](https://img.shields.io/github/watchers/UiLgNoD-lIaMtOh/s-c-f-serv00)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=UiLgNoD-lIaMtOh.s-c-f-serv00) 
+
+---
+
 ### 📌 [docker-amd64-custom-ubuntu-topfreeproxies](https://github.com/UiLgNoD-lIaMtOh/docker-amd64-custom-ubuntu-topfreeproxies)
 构建特殊的 Ubuntu 镜像运行容器，获取最终配置节点文件，主要用于学习提升技术。
 
