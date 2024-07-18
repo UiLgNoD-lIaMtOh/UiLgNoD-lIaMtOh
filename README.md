@@ -43,7 +43,7 @@ emo
 ---
 
 ### 📌 [s-c-f-serv00](https://github.com/UiLgNoD-lIaMtOh/s-c-f-serv00)
-修改个人 GitHub 欢迎界面。
+sing-box + cloudflare + freebsd 支持在 serv00 上搭建 3 个 vmess
 
 [![](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/s-c-f-serv00?style=social)](https://github.com/UiLgNoD-lIaMtOh/s-c-f-serv00/stargazers)
 [![](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/s-c-f-serv00?style=social)](https://github.com/UiLgNoD-lIaMtOh/s-c-f-serv00/network/members)
