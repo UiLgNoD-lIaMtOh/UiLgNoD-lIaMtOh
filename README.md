@@ -43,7 +43,7 @@ emo
 ---
 
 ### 📌 [s-c-f-serv00](https://github.com/UiLgNoD-lIaMtOh/s-c-f-serv00)
-sing-box + cloudflare + freebsd 支持在 serv00 上搭建 3 个 vmess
+sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + vmess(cloudflare) + trojan(cloudflare) 3 个节点
 
 [![](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/s-c-f-serv00?style=social)](https://github.com/UiLgNoD-lIaMtOh/s-c-f-serv00/stargazers)
 [![](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/s-c-f-serv00?style=social)](https://github.com/UiLgNoD-lIaMtOh/s-c-f-serv00/network/members)
