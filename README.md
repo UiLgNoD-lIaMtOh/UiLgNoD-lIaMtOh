@@ -2,6 +2,15 @@
 
 ## 🐱 普通的描述
 emo  
+![Watchers](https://img.shields.io/github/watchers/UiLgNoD-lIaMtOh/UiLgNoD-lIaMtOh) ![Stars](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/UiLgNoD-lIaMtOh) ![Forks](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/UiLgNoD-lIaMtOh) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=UiLgNoD-lIaMtOh.UiLgNoD-lIaMtOh) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+<a href="https://star-history.com/#UiLgNoD-lIaMtOh/UiLgNoD-lIaMtOh&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=UiLgNoD-lIaMtOh/UiLgNoD-lIaMtOh&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=UiLgNoD-lIaMtOh/UiLgNoD-lIaMtOh&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=UiLgNoD-lIaMtOh/UiLgNoD-lIaMtOh&type=Date" />
+  </picture>
+</a>
+
 
 ## 📊 我的 GitHub 统计
 ![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=UiLgNoD-lIaMtOh&show_icons=true&theme=radical)
