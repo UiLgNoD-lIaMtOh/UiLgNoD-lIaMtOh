@@ -122,16 +122,16 @@ sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + v
 
 ---
 
-### 📌 [docker-arm64-pyenv-jupyter](https://github.com/UiLgNoD-lIaMtOh/docker-arm64-pyenv-jupyter)
-在 arm64v8 上使用的 pyenv Jupyter docker构建材料。
+### 📌 [docker-arch-pyenv-jupyter](https://github.com/UiLgNoD-lIaMtOh/docker-arch-pyenv-jupyter)
+在 arm64v8 和 amd64 上使用的 pyenv Jupyter docker构建材料。
 
-[![](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/docker-arm64-pyenv-jupyter?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-arm64-pyenv-jupyter/stargazers)
-[![](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/docker-arm64-pyenv-jupyter?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-arm64-pyenv-jupyter/network/members)
-![GitHub license](https://img.shields.io/github/license/UiLgNoD-lIaMtOh/docker-arm64-pyenv-jupyter)
-![GitHub last commit](https://img.shields.io/github/last-commit/UiLgNoD-lIaMtOh/docker-arm64-pyenv-jupyter)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/UiLgNoD-lIaMtOh/docker-arm64-pyenv-jupyter)
-![Watchers](https://img.shields.io/github/watchers/UiLgNoD-lIaMtOh/docker-arm64-pyenv-jupyter)
-![Vistors](https://visitor-badge.laobi.icu/badge?page_id=UiLgNoD-lIaMtOh.docker-arm64-pyenv-jupyter) 
+[![](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/docker-arch-pyenv-jupyter?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-arch-pyenv-jupyter/stargazers)
+[![](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/docker-arch-pyenv-jupyter?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-arch-pyenv-jupyter/network/members)
+![GitHub license](https://img.shields.io/github/license/UiLgNoD-lIaMtOh/docker-arch-pyenv-jupyter)
+![GitHub last commit](https://img.shields.io/github/last-commit/UiLgNoD-lIaMtOh/docker-arch-pyenv-jupyter)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/UiLgNoD-lIaMtOh/docker-arch-pyenv-jupyter)
+![Watchers](https://img.shields.io/github/watchers/UiLgNoD-lIaMtOh/docker-arch-pyenv-jupyter)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=UiLgNoD-lIaMtOh.docker-arch-pyenv-jupyter) 
 
 ---
 
