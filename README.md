@@ -136,7 +136,7 @@ sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + v
 ---
 
 ### 📌 [docker-arch-miniforge-jupyter](https://github.com/UiLgNoD-lIaMtOh/docker-arch-miniforge-jupyter)
-在 arm64v8 上使用的 miniforge Jupyter docker构建材料。
+在 arm64v8 和 amd64 alpine 上使用的 miniforge Jupyter docker构建材料，alpine 支持 glibc 2.40
 
 [![](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/docker-arch-miniforge-jupyter?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-arch-miniforge-jupyter/stargazers)
 [![](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/docker-arch-miniforge-jupyter?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-arch-miniforge-jupyter/network/members)
