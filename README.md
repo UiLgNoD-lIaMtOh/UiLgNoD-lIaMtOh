@@ -187,16 +187,16 @@ Boss直聘批量投递脚本，提高找工作效率。
 
 ---
 
-### 📌 [docker-arm64-samba](https://github.com/UiLgNoD-lIaMtOh/docker-arm64-samba)
-在 arm64v8 上使用的 samba 构建材料。
+### 📌 [docker-arch-samba](https://github.com/UiLgNoD-lIaMtOh/docker-arch-samba)
+在 arm64v8 和 amd64 alpine 上使用的 samba 构建材料。。
 
-[![](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/docker-arm64-samba?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-arm64-samba/stargazers)
-[![](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/docker-arm64-samba?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-arm64-samba/network/members)
-![GitHub license](https://img.shields.io/github/license/UiLgNoD-lIaMtOh/docker-arm64-samba)
-![GitHub last commit](https://img.shields.io/github/last-commit/UiLgNoD-lIaMtOh/docker-arm64-samba)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/UiLgNoD-lIaMtOh/docker-arm64-samba)
-![Watchers](https://img.shields.io/github/watchers/UiLgNoD-lIaMtOh/docker-arm64-samba)
-![Vistors](https://visitor-badge.laobi.icu/badge?page_id=UiLgNoD-lIaMtOh.docker-arm64-samba) 
+[![](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/docker-arch-samba?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-arch-samba/stargazers)
+[![](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/docker-arch-samba?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-arch-samba/network/members)
+![GitHub license](https://img.shields.io/github/license/UiLgNoD-lIaMtOh/docker-arch-samba)
+![GitHub last commit](https://img.shields.io/github/last-commit/UiLgNoD-lIaMtOh/docker-arch-samba)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/UiLgNoD-lIaMtOh/docker-arch-samba)
+![Watchers](https://img.shields.io/github/watchers/UiLgNoD-lIaMtOh/docker-arch-samba)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=UiLgNoD-lIaMtOh.docker-arch-samba) 
 
 ---
 
