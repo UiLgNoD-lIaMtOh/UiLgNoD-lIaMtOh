@@ -214,7 +214,7 @@ Boss直聘批量投递脚本，提高找工作效率。
 ---
 
 ### 📌 [docker-arch-test](https://github.com/UiLgNoD-lIaMtOh/docker-arch-test)
-笔记使用 docker manifest 命令来创建和推送 manifest list 测试多平台镜像推送一个tag。
+使用 docker buildx 命令来创建和推送 list 测试多平台镜像推送一个tag。
 
 [![](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/docker-arch-test?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-arch-test/stargazers)
 [![](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/docker-arch-test?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-arch-test/network/members)
