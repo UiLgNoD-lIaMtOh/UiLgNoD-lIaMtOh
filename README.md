@@ -135,6 +135,19 @@ sing-box + cloudflare + freebsd 支持在 serv00 上搭建 vless(cloudflare) + v
 
 ---
 
+### 📌 [docker-amd64-ubuntu-resilio-sync](https://github.com/UiLgNoD-lIaMtOh/docker-amd64-ubuntu-resilio-sync)
+构建特殊的 Ubuntu 镜像运行容器，获取最终配置节点文件，主要用于学习提升技术。
+
+[![](https://img.shields.io/github/stars/UiLgNoD-lIaMtOh/docker-amd64-ubuntu-resilio-sync?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-amd64-ubuntu-resilio-sync/stargazers)
+[![](https://img.shields.io/github/forks/UiLgNoD-lIaMtOh/docker-amd64-ubuntu-resilio-sync?style=social)](https://github.com/UiLgNoD-lIaMtOh/docker-amd64-ubuntu-resilio-sync/network/members)
+![GitHub license](https://img.shields.io/github/license/UiLgNoD-lIaMtOh/docker-amd64-ubuntu-resilio-sync)
+![GitHub last commit](https://img.shields.io/github/last-commit/UiLgNoD-lIaMtOh/docker-amd64-ubuntu-resilio-sync)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/UiLgNoD-lIaMtOh/docker-amd64-ubuntu-resilio-sync)
+![Watchers](https://img.shields.io/github/watchers/UiLgNoD-lIaMtOh/docker-amd64-ubuntu-resilio-sync)
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=UiLgNoD-lIaMtOh.docker-amd64-ubuntu-resilio-sync) 
+
+---
+
 ### 📌 [docker-arch-pyenv-jupyter](https://github.com/UiLgNoD-lIaMtOh/docker-arch-pyenv-jupyter)
 在 arm64v8 和 amd64 上使用的 pyenv Jupyter docker构建材料。
 
