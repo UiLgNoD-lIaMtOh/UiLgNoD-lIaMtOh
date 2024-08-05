@@ -5,8 +5,9 @@ emo
 A person’s life is full of suffering.  
 一个人的一生是痛苦的。  
 A confident person doesn’t need others to tell them who they are, but I am a non-confident person, sigh, I am the embodiment of non-confidence.  
-一个自信的人不需要其他人告诉自己是什么，可是我是糟糕的人，唉，是糟糕本身。  
-
+一个自信的人不需要其他人告诉自己是什么，可是我是糟糕的人，唉，是糟糕本身。   
+People’s joys and sorrows do not interconnect; they only feel like they are bringing suffering upon themselves.  
+人的悲欢并不相通，只觉得自讨苦吃。  
 
 ## 📊 我的 GitHub 统计
 ![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=UiLgNoD-lIaMtOh&show_icons=true&theme=radical)
